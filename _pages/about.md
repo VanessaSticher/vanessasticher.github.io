@@ -12,7 +12,7 @@ I'm a fourth-year PhD student in Economics at MIT.
 
 ## Research
 ### Working Papers
-- [News Customization with AI](https://raw.githubusercontent.com/cproth/papers/master/TMT.pdf) (with Felix Chopra, Ingar Haaland, Fabian Roeben, Christopher Roth)
+- <a href="https://raw.githubusercontent.com/cproth/papers/master/TMT.pdf" target="_blank">News Customization with AI</a> (with Felix Chopra, Ingar Haaland, Fabian Roeben, Christopher Roth)
 
 ### Work in Progress
 
