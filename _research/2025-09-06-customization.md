@@ -1,8 +1,8 @@
 ---
 title: "News Customization with AI"
-collection: publications
+collection: research
 category: Working Papers
-permalink: /research/2009-10-01-paper-title-number-1
+permalink: /research/2025-09-06-customization
 excerpt: ''
 date: 2025-09-06
 venue: ''
